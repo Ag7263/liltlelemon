@@ -1,2 +1,2 @@
-# liltlelemon
-Little Lemon
+install requirements with pip install -r requirements.txt
+
